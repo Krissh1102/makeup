@@ -136,7 +136,7 @@ class _ProductCatalogueScreenState
           Stack(
             children: [
               AspectRatio(
-                aspectRatio: 1,
+                aspectRatio: 1.2,
                 child: Container(
                   decoration: BoxDecoration(
                     image: DecorationImage(
